@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "1351424450:AAEX8uvmdgFSCr-hCs7ROLuQ3Ijk64atqWE"                              # Require restart after changing it while bot running
-OWNER_ID = "1223296516"                               # Require restart after changing it while bot running
-TELEGRAM_API = "2500519"                           # Require restart after changing it while bot running
-TELEGRAM_HASH = "cc7f6fe71196642a070fbb896d31feb0"
-DATABASE_URL = "mongodb+srv://Forward0:Kanhaiya@cluster0.indkk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"                           # Require restart after changing it while bot running
+BOT_TOKEN = ""                              # Require restart after changing it while bot running
+OWNER_ID = "1"                               # Require restart after changing it while bot running
+TELEGRAM_API = ""                           # Require restart after changing it while bot running
+TELEGRAM_HASH = "0"
+DATABASE_URL = "mr0"                           # Require restart after changing it while bot running
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
